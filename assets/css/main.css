@@ -8665,7 +8665,14 @@ input, select, textarea {
 		header video {
 			display: none;
 		}
+		.bottom-video {
+			display: none;
+		}
 		}
 		
-
+		.phone-button {
+			padding: 15px !important;
+			background-color: black;
+			margin-bottom: 40px !important;
+		}
 		
